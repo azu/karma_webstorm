@@ -1,0 +1,27 @@
+{
+  "name": "karma_webstorm",
+  "version": "0.0.1",
+  "description": "Karma + Webstorm",
+  "main": "karma.conf.js",
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {
+    "karma": "~0.9.4",
+    "karma-chrome-launcher": "~0.0.1",
+    "karma-coffee-preprocessor": "~0.0.1",
+    "karma-coverage": "~0.0.3",
+    "karma-firefox-launcher": "~0.0.2",
+    "karma-jasmine": "~0.0.1",
+    "karma-mocha": "~0.0.1",
+    "karma-phantomjs-launcher": "~0.0.2",
+    "karma-requirejs": "~0.0.1",
+    "karma-script-launcher": "~0.0.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "azu",
+  "license": "MIT"
+}
